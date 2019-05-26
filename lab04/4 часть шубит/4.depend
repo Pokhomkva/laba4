@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558876404 source:c:\users\evapo_miqhylx\desktop\4\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

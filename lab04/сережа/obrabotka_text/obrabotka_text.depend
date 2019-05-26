@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1557577110 source:e:\obrabotka_text\main.cpp
+	<iostream>
+	<cstring>
+
+1557728873 source:c:\users\u211-15\desktop\lab04\obrabotka_text\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+

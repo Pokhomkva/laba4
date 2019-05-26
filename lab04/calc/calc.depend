@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1557732528 source:c:\users\u211-15\desktop\calc\main.cpp
+	<iostream>
+	<cassert>
+
+1557732812 source:e:\lab04\calc\main.cpp
+	<iostream>
+	<cassert>
+
